@@ -8,19 +8,19 @@ include "qwerty-layout"
 include "linux-with-alt-and-altgr"
 strings as usual
 
-keycode  41 =          grave    asciitilde       dead_tilde        asciitilde    nul
-keycode   2 =         exclam           one       exclamdown       onesuperior
-keycode   3 =             at           two        masculine       twosuperior    nul
-keycode   4 =     numbersign         three      ordfeminine     threesuperior    Escape
-keycode   5 =         dollar          four             cent          sterling    Control_backslash
-keycode   6 =        percent          five             euro               yen    Control_bracketright               #          EuroSign               yen
-keycode   7 =    asciicircum           six       asciitilde        asciitilde 	 Control_asciicircum               #           hstroke           Hstroke
-keycode   8 =      ampersand         seven              eth               ETH    Control_underscore
-keycode   9 =       asterisk         eight            thorn             THORN    Delete
-keycode  10 =      parenleft          nine       asciitilde        asciitilde               #   leftsinglequotemark   leftdoublequotemark
-keycode  11 =     parenright          zero       asciitilde        asciitilde               #  rightsinglequotemark   rightdoublequotemark
-keycode  12 =          minus    underscore       asciitilde        asciitilde 	 Control_underscore          #            endash            emdash
-keycode  13 =          equal          plus         multiply          division
+keycode  41 =         dollar    asciitilde       dead_tilde        asciitilde    nul
+keycode   2 =      ampersand       percent       exclamdown       onesuperior
+keycode   3 =    bracketleft         seven        masculine       twosuperior    nul
+keycode   4 =      braceleft          five      ordfeminine     threesuperior    Escape
+keycode   5 =     braceright         three             cent          sterling    Control_backslash
+keycode   6 =      parenleft           one             euro               yen    Control_bracketright               #          EuroSign               yen
+keycode   7 =          equal          nine       asciitilde        asciitilde 	 Control_asciicircum               #           hstroke           Hstroke
+keycode   8 =       asterisk          zero              eth               ETH    Control_underscore
+keycode   9 =     parenright           two            thorn             THORN    Delete
+keycode  10 =           plus          four       asciitilde        asciitilde               #   leftsinglequotemark   leftdoublequotemark
+keycode  11 =   bracketright           six       asciitilde        asciitilde               #  rightsinglequotemark   rightdoublequotemark
+keycode  12 =         exclam         eight       asciitilde        asciitilde 	 Control_underscore          #            endash            emdash
+keycode  13 =     numbersign         grave         multiply          division
 
 keycode  16 =              q             Q       adiaeresis        Adiaeresis    Control_q
 keycode  17 =              d             D   dead_diaeresis        asciitilde    Control_d
@@ -32,8 +32,8 @@ keycode  22 =              f             F           atilde            Atilde   
 keycode  23 =              u             U           uacute            Uacute    Control_u
 keycode  24 =              p             P           oslash          Ooblique    Control_p
 keycode  25 =      semicolon         colon       odiaeresis        Odiaeresis
-keycode  26 =    bracketleft     braceleft    guillemotleft        asciitilde    Escape               #     guillemotleft         0x1002039
-keycode  27 =   bracketright    braceright   guillemotright        asciitilde    Control_bracketright #    guillemotright         0x100203a
+keycode  26 =          minus    underscore    guillemotleft        asciitilde    Escape               #     guillemotleft         0x1002039
+keycode  27 =             at   asciicircum   guillemotright        asciitilde    Control_bracketright #    guillemotright         0x100203a
 keycode  43 =      backslash           bar       asciitilde        asciitilde    Control_backslash
 
 keycode  30 =              a             A           aacute            Aacute    Control_a

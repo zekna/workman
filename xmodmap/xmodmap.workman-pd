@@ -26,7 +26,7 @@ keycode  30 =            f             F           atilde            Atilde
 keycode  31 =            u             U           uacute            Uacute
 keycode  32 =            p             P           oslash          Ooblique
 keycode  33 =    semicolon         colon       odiaeresis        Odiaeresis
-keycode  34 =  bracketleft     braceleft    guillemotleft             U2039
+keycode  34 =        minus    underscore    guillemotleft             U2039
 keycode  35 =           at   asciicircum   guillemotright             U203a
 keycode  51 =    backslash           bar       asciitilde        asciitilde
 
