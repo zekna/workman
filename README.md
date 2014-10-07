@@ -1,3 +1,10 @@
+Workman keyboard layouts -- now with added programmer dvorak variants
+============================================
+
+While no sane person would use programmer dvorak as a keyboard layout anymore, I've gotten very used to the way the number row and symbols are laid out in it, and rather enjoy it.  I've added layout variants on top of all the official ones that swap the number row and {[ / }] keys in a manner inspired (directly copied) from programmer dvorak.
+
+None of the official layouts are changed at all, so you can use all of them as before.
+
 Workman keyboard layouts
 ========================
 
